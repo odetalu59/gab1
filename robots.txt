@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://novocap.com/superjp/sitemap.xml
+Sitemap: http://novocap.com/gilajp/sitemap.xml
+Sitemap: http://novocap.com/gojekpot/sitemap.xml
+Sitemap: http://novocap.com/winstrike69/sitemap.xml
+Sitemap: http://novocap.com/slotgacor/sitemap.xml
+Sitemap: http://novocap.com/slotzeus/sitemap.xml
+Sitemap: http://novocap.com/kaptenjackpot/sitemap.xml
+Sitemap: http://novocap.com/boosterjp/sitemap.xml
+Sitemap: http://novocap.com/kerajaanslot/sitemap.xml
+Sitemap: http://novocap.com/pakong86/sitemap.xml
+Sitemap: http://novocap.com/viral88/sitemap.xml
+Sitemap: http://novocap.com/clan4d/sitemap.xml
+Sitemap: http://novocap.com/dinamit4d/sitemap.xml
+Sitemap: http://novocap.com/elang212/sitemap.xml
+Sitemap: http://novocap.com/gori77/sitemap.xml
+Sitemap: http://novocap.com/viral4d/sitemap.xml
+Sitemap: http://novocap.com/playground88/sitemap.xml
